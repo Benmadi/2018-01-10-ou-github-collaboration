@@ -1,11 +1,11 @@
 ##Russian_Federation
-## population
+## population 144.3 million (2016)
 
 
-## capital
+## capital Moscow
 
  
-## official language
+## official language Russian
 
 
 ## interesting trivia
