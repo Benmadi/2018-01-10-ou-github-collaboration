@@ -1,14 +1,14 @@
 ##Jamaica
-## population
+## population: 2.81 million
 
 
-## capital
+## capital: KIngston
 
  
-## official language
+## official language: English Language.
 
 
-## interesting trivia
+## interesting trivia: Lush Topography
 
 
 
